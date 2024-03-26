@@ -1,0 +1,103 @@
+.body_barra{ 
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 19.54%
+    
+}
+.botao_barra{
+    position: absolute;
+    left: 2.5%;
+    right: 91.67%;
+    top: 26.44%;
+    bottom: 45.98%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.botao_ajudar{
+    position: absolute;
+    left: 85.83%;
+    right: 5.83%;
+    top: 20.69%;
+    bottom: 31.03%;
+    background: #0BBB12;
+    border-radius: 5px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.body_font{
+    position: absolute;
+    left: 2.5%;
+    right: 91.67%;
+    top: 26.44%;
+    bottom: 45.98%;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #FFFFFF;
+    
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+.slider_foto{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0.57%;
+    
+    background: url(coronavirus-4914028_960_720.png);
+}
+
+.cards{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    
+    background: #FFFFFF;
+    border: 1px solid #C4C4C4;
+    box-sizing: border-box;
+    background: url(emotions-2764936__340.png);
+}
+.botao_card{       
+    background: #0BBB12;
+    border-radius: 5px;
+}
+.img_txt{
+    position: absolute;
+    width: 1418px;
+    height: 234px;
+    left: 11px;
+    top: 980px;
+    background: url(redes sociaisa.png);
+    background: url(redes sociaisa.png);
+}
+
+.footer_final{
+    
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+    background: #FFFFFF;
+}

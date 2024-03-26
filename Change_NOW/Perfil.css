@@ -1,0 +1,220 @@
+.body_barra{ 
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 19.54%
+    
+}
+.botao_barra{
+    position: absolute;
+    left: 2.5%;
+    right: 91.67%;
+    top: 26.44%;
+    bottom: 45.98%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.botao_ajudar{
+    position: absolute;
+    left: 85.83%;
+    right: 5.83%;
+    top: 20.69%;
+    bottom: 31.03%;
+    background: #0BBB12;
+    border-radius: 5px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.body_font{
+    position: absolute;
+    left: 2.5%;
+    right: 91.67%;
+    top: 26.44%;
+    bottom: 45.98%;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #FFFFFF;
+    
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+.card_pesquisa{
+    border-radius: 4px;
+    font-family: ABeeZee;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+    background: linear-gradient(180deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%), #FFFFFF;
+    border-radius: 5px;
+}
+.card_publicarvaga{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 39.08%;
+    background: #FFFFFF;
+    border: 1px solid #D1D3DD;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+.botao_publicarvaga{
+    position: absolute;
+    left: 25.19%;
+    right: 17.19%;
+    top: 12.5%;
+    bottom: 53.26%;
+    background: #0BBB12;
+    border-radius: 20px;
+}
+.postagem_N{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 10.4%;
+    background: #FFFFFF;
+    border: 1px solid #C4C4C4;
+    box-sizing: border-box;
+    border-radius: 4px;
+    background: url(OSMDB-icon.png);
+}
+.postagem_font_utilizador{
+    font-family: Crete Round;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 31px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+}
+.postagem_font_estado{
+    font-family: Crete Round;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    color: rgba(0, 0, 0, 0.83);
+}
+.postagem_imagem_utilizador{
+    background: url(young-woman-checking-her-phone.jpg);
+}
+.postagem_botao{
+    position: absolute;
+    left: -22.58%;
+    right: 23.66%;
+    top: 5.76%;
+    bottom: 8.46%;
+    font-family: Crete Round;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 31px;
+    display: flex;
+    align-items: center;
+    color: #1194DE;
+
+}
+.postagem_botao_partilhar{
+    position: absolute;
+    left: 50.68%;
+    right: 27%;
+    top: 80.8%;
+    bottom: 12.01%;
+    font-family: Crete Round;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 31px;
+    display: flex;
+    align-items: center;
+    color: #817777;
+    background: url(opcao-multimidia.png), url(opcao-multimidia.png), url(opcao-multimidia.png), url(opcao-multimidia.png);
+    
+}
+.card_recomendacoes{
+    position: absolute;
+    left: 0.3%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    background: #FFFFFF;
+    border: 1px solid #D1D3DD;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+.card_font_recomendacoes{
+    font-family: Crete Round;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 31px;
+    display: flex;
+    align-items: center;
+    color: #817777;
+}
+.card_foto_recomendacao{
+    position: absolute;
+    left: 7.46%;
+    right: 76.12%;
+    top: 23.73%;
+    bottom: 64.62%;
+    background: url(862cb790-50fb-414e-a755-eaa30e5041ed_200x200.png);
+    border: 1px solid #E5E5E5;
+    box-sizing: border-box;
+}
+.card_botao_mais{
+    position: absolute;
+    left: 38.81%;
+    right: 45.37%;
+    top: 88.14%;
+    bottom: 5.3%;
+    font-family: Crete Round;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 31px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+}
+.card_anuncios{
+    position: absolute;
+    width: 334px;
+    height: 426px;
+    left: 1072px;
+    top: 584px;
+    background: #FFFFFF;
+    border: 1px solid #D1D3DD;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+.card_img_anuncio{
+    position: absolute;
+    width: 305px;
+    height: 400px;
+    left: 1087px;
+    top: 594px;
+    background: url(tech-staff-at-table-working.jpg);
+}
